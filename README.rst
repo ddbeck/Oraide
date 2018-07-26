@@ -27,6 +27,6 @@ license. See the ``LICENSE.txt`` file included for details.
 .. image:: https://travis-ci.org/ddbeck/oraide.png?branch=develop
    :target: https://travis-ci.org/ddbeck/oraide
 
-.. image:: https://pypip.in/v/oraide/badge.png
+.. image:: https://img.shields.io/pypi/v/oraide.svg
    :target: https://crate.io/packages/oraide/
    :alt: Latest Oraide version on PyPI
